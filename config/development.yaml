@@ -1,0 +1,11 @@
+#serverAddress: 192.168.43.177
+serverAddress: 192.168.88.18
+serverPort: 3099
+
+DB_NAME: countdown
+DB_HOST: root
+DB_PORT: 3306
+DB_PASS: '1'
+
+DROP: false
+SEED: true
